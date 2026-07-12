@@ -7,4 +7,5 @@ I'm currently building my cybersecurity portfolio by documenting projects, labs,
 My goal is to continue growing as a cybersecurity professional while contributing to secure, reliable, and innovative technology solutions.
 ## Project Walkthrough
 
---- I included a detailed project walkthrough in the Project details section to document my investigation process from start to finish. The purpose of the walkthrough is to show not only the final findings, but also the methodology, tools used, analysis steps, and decision-making process behind each discovery.
+--- I included a detailed Lab walkthrough to document my investigation process from start to finish. The purpose of the walkthrough is to show not only the final findings, but also the methodology, tools used, analysis steps, and decision-making process behind each discovery.
+See others repositories for details...
