@@ -7,4 +7,16 @@ I have hands-on experience with cybersecurity tools and concepts, including netw
 I'm currently building my cybersecurity portfolio by documenting projects, labs, and investigations that demonstrate my ability to analyze threats, identify security risks, and apply security frameworks.
 
 My goal is to continue growing as a cybersecurity professional while contributing to secure, reliable, and innovative technology solutions.
+## Project Walkthrough
 
+--- I included a detailed project walkthrough in the Project details section to document my investigation process from start to finish. The purpose of the walkthrough is to show not only the final findings, but also the methodology, tools used, analysis steps, and decision-making process behind each discovery.
+
+By organizing the walkthrough into separate sections, viewers can follow the investigation like a real incident response case. Each phase explains how artifacts were identified, how network traffic was analyzed, and how indicators of compromise (IOCs) were extracted from the evidence.
+
+## How to Access the Walkthrough
+
+To view the project walkthrough:
+
+1. Navigate to the repository's main page on GitHub.
+2. Click the project details in top-right corner.
+The walkthrough is designed to make the project easy to follow for recruiters, cybersecurity professionals, and anyone interested in understanding the investigation process.
